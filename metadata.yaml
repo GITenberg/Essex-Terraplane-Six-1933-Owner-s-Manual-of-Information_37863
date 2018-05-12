@@ -1,0 +1,24 @@
+_repo: Essex-Terraplane-Six-1933-Owner-s-Manual-of-Information_37863
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37863-h/images/cover.png
+creator:
+  author:
+    agent_name: Hudson Motor Car Company
+    gutenberg_agent_id: '39012'
+    url: http://www.gutenberg.org/2009/agents/39012
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Hudson automobile -- Handbooks, manuals, etc.'
+title: Essex Terraplane Six 1933 Owner's Manual of Information
+url: http://www.gutenberg.org/ebooks/37863
